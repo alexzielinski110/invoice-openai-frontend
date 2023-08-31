@@ -1,0 +1,44 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+button:disabled {
+  opacity: 0.5;
+}
+
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  background-color: transparent !important;
+}
+
+.css-ux46c0,
+.css-r4hqfw {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.css-15ni8d3 {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.css-15ni8d3 {
+  padding-bottom: 0 !important;
+}
+
+.css-ux46c0>span,
+.css-r4hqfw>span,
+.css-15ni8d3>h4,
+.css-15ni8d3>h6 {
+  color: white !important;
+}
+
+label.capitalize {
+  text-transform: capitalize;
+}
